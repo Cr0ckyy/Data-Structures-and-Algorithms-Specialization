@@ -1,6 +1,6 @@
-# Introduction to Data Structures and Algorithms Specialization
+# Data Structures and Algorithms Specialization
 
-**[Introduction to Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)**
+**[Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)**
 + **[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms)**
 + **[Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms)**
 + **[Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms)**
