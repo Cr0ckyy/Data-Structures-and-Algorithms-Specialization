@@ -8,4 +8,4 @@
 + **[Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity?specialization=data-structures-algorithms)**
 + **[Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes?specialization=data-structures-algorithms)**
 
-The project predominantly consists of Python scripts designed to address each problem associated with the above courses in Data Structures and Algorithms, a topic within the Computer Science discipline.
+In the future , the project would predominantly consists of Python scripts designed to address each problem associated with the above courses in Data Structures and Algorithms, a topic within the Computer Science discipline.
